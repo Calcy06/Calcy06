@@ -23,6 +23,8 @@ Hi, I'm Calcy06 👋
 🛠️ 技术栈
  
 C
+
+C++
  
 Linux
  
