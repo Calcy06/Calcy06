@@ -8,9 +8,6 @@ Hi, I'm Calcy06 👋
 - 🔭 正在寻找：嵌入式开发实习 / 项目队友 / 开源贡献机会
 - 📫 个人博客：https://www.cnblogs.com/yangweiping
 - 📧 邮箱：yangwp2006@gmail.com
-- https://github.com/Calcy06
-- https://github.com/abnb250
-- https://github.com/hlx10086
  
  
  
