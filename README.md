@@ -7,8 +7,8 @@ Hi, I'm Calcy06 👋
 - 🌱 正在学习：嵌入式Linux / C语言 / 物联网开发
 - 🔭 正在寻找：嵌入式开发实习 / 项目队友 / 开源贡献机会
 - 📫 个人博客：https://www.cnblogs.com/CALC_yang
-- 📧 邮箱1⃣️：yangwp2006@gmail.com
-- 📧 邮箱2⃣️：3473251469@qq.com
+- 📧 邮箱：yangwp2006@gmail.com
+- 📧 邮箱：3473251469@qq.com
  
  
  
